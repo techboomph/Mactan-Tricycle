@@ -7,7 +7,7 @@ namespace Mactan.Tricycle.DAL.Models
     using System.ComponentModel.DataAnnotations.Schema;
     using Mactan.Tricycle.DAL.Abstracts;
 
-    public class Activity : Entity<int>
+    public class Asset : Entity<int>
     {
         public string FranchiseKey { get; set; }
         public double? AssetCost { get; set; }
