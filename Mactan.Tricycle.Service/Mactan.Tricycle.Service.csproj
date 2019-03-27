@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mactan.Tricycle.Core\Mactan.Tricycle.Core.csproj" />
+    <ProjectReference Include="..\Mactan.Tricycle.DAL\Mactan.Tricycle.DAL.csproj" />
+    <ProjectReference Include="..\Mactan.Tricycle.Repository\Mactan.Tricycle.Repository.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
