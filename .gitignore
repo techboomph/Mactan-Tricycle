@@ -85,3 +85,18 @@ yarn-error.log
 .DS_Store
 Thumbs.db
 
+Mactan.Tricycle.Repository/obj/project.assets.json
+Mactan.Tricycle.API/obj/Mactan.Tricycle.API.csproj.nuget.cache
+Mactan.Tricycle.API/obj/Mactan.Tricycle.API.csproj.nuget.g.props
+Mactan.Tricycle.API/obj/project.assets.json
+Mactan.Tricycle.Core/obj/Mactan.Tricycle.Core.csproj.nuget.cache
+Mactan.Tricycle.Core/obj/Mactan.Tricycle.Core.csproj.nuget.g.props
+Mactan.Tricycle.Core/obj/project.assets.json
+Mactan.Tricycle.DAL/obj/Mactan.Tricycle.DAL.csproj.nuget.cache
+Mactan.Tricycle.DAL/obj/Mactan.Tricycle.DAL.csproj.nuget.g.props
+Mactan.Tricycle.DAL/obj/project.assets.json
+Mactan.Tricycle.Repository/obj/Mactan.Tricycle.Repository.csproj.nuget.cache
+Mactan.Tricycle.Repository/obj/Mactan.Tricycle.Repository.csproj.nuget.g.props
+Mactan.Tricycle.Service/obj/Mactan.Tricycle.Service.csproj.nuget.cache
+Mactan.Tricycle.Service/obj/Mactan.Tricycle.Service.csproj.nuget.g.props
+Mactan.Tricycle.Service/obj/project.assets.json

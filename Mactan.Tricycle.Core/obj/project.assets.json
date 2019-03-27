@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ric.Ybanez\\.nuget\\packages\\": {},
+    "C:\\Users\\RR BAYOTBUANG\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ric.Ybanez\\Desktop\\Ric.Ybanez\\TechBoom\\Mactan-Tricycle\\Mactan.Tricycle.Core\\Mactan.Tricycle.Core.csproj",
+      "projectUniqueName": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Core\\Mactan.Tricycle.Core.csproj",
       "projectName": "Mactan.Tricycle.Core",
-      "projectPath": "C:\\Users\\Ric.Ybanez\\Desktop\\Ric.Ybanez\\TechBoom\\Mactan-Tricycle\\Mactan.Tricycle.Core\\Mactan.Tricycle.Core.csproj",
-      "packagesPath": "C:\\Users\\Ric.Ybanez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ric.Ybanez\\Desktop\\Ric.Ybanez\\TechBoom\\Mactan-Tricycle\\Mactan.Tricycle.Core\\obj\\",
+      "projectPath": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Core\\Mactan.Tricycle.Core.csproj",
+      "packagesPath": "C:\\Users\\RR BAYOTBUANG\\.nuget\\packages\\",
+      "outputPath": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ric.Ybanez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RR BAYOTBUANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
