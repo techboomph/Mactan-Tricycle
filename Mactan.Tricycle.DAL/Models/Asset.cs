@@ -29,8 +29,19 @@ namespace Mactan.Tricycle.DAL.Models
         [MaxLength(150)]
         public string AssetType {get;set;}
         public int OwnerOrganizationId {get;set;}
-        public int AssetIdPart {get;set;}
+        public int AssetPartId {get;set;}
         public bool IsActive {get;set;}
+        public virtual OwnerOrganization OwnerOrganization {get;set;}
+
+        public virtual Asset AssetPart {get;set;}
+
+        [InverseProperty("AssetPart")]
+        public virtual ICollection<Asset> Assets { get; set; } = new HashSet<Asset>();
+
+        [InverseProperty("Asset")]
+        public virtual ICollection<AssetDriver> AssetDrivers { get; set; } = new HashSet<AssetDriver>();
+
+        
 
     }
 }

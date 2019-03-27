@@ -12391,11 +12391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.API\\Mactan.Tricycle.API.csproj",
+      "projectUniqueName": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.API\\Mactan.Tricycle.API.csproj",
       "projectName": "Mactan.Tricycle.API",
-      "projectPath": "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.API\\Mactan.Tricycle.API.csproj",
+      "projectPath": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.API\\Mactan.Tricycle.API.csproj",
       "packagesPath": "C:\\Users\\RR BAYOTBUANG\\.nuget\\packages\\",
-      "outputPath": "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.API\\obj\\",
+      "outputPath": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12414,17 +12414,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Core\\Mactan.Tricycle.Core.csproj": {
-              "projectPath": "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Core\\Mactan.Tricycle.Core.csproj"
+            "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Core\\Mactan.Tricycle.Core.csproj": {
+              "projectPath": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Core\\Mactan.Tricycle.Core.csproj"
             },
-            "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.DAL\\Mactan.Tricycle.DAL.csproj": {
-              "projectPath": "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.DAL\\Mactan.Tricycle.DAL.csproj"
+            "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.DAL\\Mactan.Tricycle.DAL.csproj": {
+              "projectPath": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.DAL\\Mactan.Tricycle.DAL.csproj"
             },
-            "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Repository\\Mactan.Tricycle.Repository.csproj": {
-              "projectPath": "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Repository\\Mactan.Tricycle.Repository.csproj"
+            "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Repository\\Mactan.Tricycle.Repository.csproj": {
+              "projectPath": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Repository\\Mactan.Tricycle.Repository.csproj"
             },
-            "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Service\\Mactan.Tricycle.Service.csproj": {
-              "projectPath": "d:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Service\\Mactan.Tricycle.Service.csproj"
+            "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Service\\Mactan.Tricycle.Service.csproj": {
+              "projectPath": "D:\\TECHBOOM\\Mactan-Tricycle\\Mactan.Tricycle.Service\\Mactan.Tricycle.Service.csproj"
             }
           }
         }
